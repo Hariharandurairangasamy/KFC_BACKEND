@@ -1,0 +1,18 @@
+[2023-04-07T12:06:54.078Z] [31merror[39m: Invalid status code: 0
+[2023-04-07T12:09:01.339Z] [31merror[39m: secretOrPrivateKey must have a value
+[2023-04-12T05:49:39.428Z] [31merror[39m: File is not defined
+[2023-04-12T05:50:11.460Z] [31merror[39m: File is not defined
+[2023-04-12T05:55:07.852Z] [31merror[39m: Cannot destructure property 'file' of 'req.files' as it is undefined.
+[2023-04-12T05:56:51.635Z] [31merror[39m: The "path" argument must be of type string or an instance of Buffer or URL. Received an instance of Object
+[2023-04-12T05:57:44.447Z] [31merror[39m: Cannot read properties of undefined (reading 'buffer')
+[2023-04-12T05:58:04.687Z] [31merror[39m: The "path" argument must be of type string or an instance of Buffer or URL. Received undefined
+[2023-04-12T06:11:13.498Z] [31merror[39m: Unexpected token u in JSON at position 0
+[2023-04-12T06:14:54.927Z] [31merror[39m: Unexpected end of JSON input
+[2023-04-12T06:34:56.079Z] [31merror[39m: Unexpected token o in JSON at position 1
+[2023-04-12T06:35:16.293Z] [31merror[39m: Unexpected token o in JSON at position 1
+[2023-04-12T06:38:15.111Z] [31merror[39m: Cannot read properties of undefined (reading '0')
+[2023-04-12T06:38:52.518Z] [31merror[39m: Cannot read properties of undefined (reading '0')
+[2023-04-12T06:46:59.822Z] [31merror[39m: Cannot read properties of undefined (reading '0')
+[2023-04-12T06:50:43.191Z] [31merror[39m: Cannot read properties of undefined (reading '0')
+[2023-04-12T07:16:13.782Z] [31merror[39m: product validation failed: offer: Cast to Number failed for value "100 off" (type string) at path "offer"
+[2023-04-12T07:16:13.800Z] [31merror[39m: Cannot read properties of undefined (reading 'status')
